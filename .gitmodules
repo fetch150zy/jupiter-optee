@@ -1,0 +1,24 @@
+[submodule "ms-tpm-20-ref"]
+	path = ms-tpm-20-ref
+	url = git@github.com:fetch150zy/ms-tpm-20-ref.git
+	branch = jupiter/optee
+[submodule "optee_client"]
+	path = optee_client
+	url = https://github.com/fetch150zy/optee_client.git
+	branch = jupiter/optee
+[submodule "optee_examples"]
+	path = optee_examples
+	url = https://github.com/fetch150zy/optee_examples.git
+	branch = jupiter/optee
+[submodule "optee_ftpm"]
+	path = optee_ftpm
+	url = git@github.com:fetch150zy/optee_ftpm.git
+	branch = jupiter/optee
+[submodule "optee_os"]
+	path = optee_os
+	url = git@github.com:fetch150zy/optee_os.git
+	branch = jupiter/optee
+[submodule "optee_test"]
+	path = optee_test
+	url = https://github.com/fetch150zy/optee_test.git
+	branch = jupiter/optee
